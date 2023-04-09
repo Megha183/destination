@@ -1,0 +1,188 @@
+{
+  "destinations": [
+    {
+      "id": "1",
+      "name": "Agra",
+      "image": "https://i.postimg.cc/cLPWj4wd/tajmahal.jpg",
+      "description": "The magnificent Taj Mahal, one of the Seven Wonders of the World, is located in Agra, Uttar Pradesh. This historical city is situated on the banks of River Yamuna and is known for its amazing Mughal architectural masterpieces. Agra is a popular tourist destination for architecture lovers, history buffs, shopaholics, and foodies.",
+      "BestTime_toVisit": "October to March",
+      "ideal_duration": "2 days",
+      "best_places_to_visit": [
+        "Agra Fort",
+        "Jama Masjid",
+        "Abkar’s Tomb",
+        "Itimad-ud-Daulah’s Tomb",
+        "Mehtab Bagh",
+        "Gurudwara Guru Ka Taal",
+        "Dolphin Water Park",
+        "Wildlife Conservation and Care Centre"
+      ],
+      "things_to_do": [
+        "Boat ride on Yamuna River",
+        "Exploring popular monuments",
+        "Watching the Light and Sound Show at Agra Fort",
+        "Visiting Fatehpur Sikri",
+        "Shopping at Kinari Bazaar, Subhash Bazaar and TDI Mall",
+        "Relishing authentic Mughlai dishes and street foods"
+      ],
+      "how_to_reach": {
+        "nearest_airport": [
+          "Agra Airport",
+          "New Delhi’s Indira Gandhi International Airport"
+        ],
+        "nearest_train_station": "Agra Cantonment Railway Station"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Munnar",
+      "image": "https://i.postimg.cc/8CCyhhj5/munnar.jpg",
+      "description": "Munnar is a serene and beautiful hill station located in the Western Ghats of Kerala, India. It is known for its natural beauty in the form of rolling hills, scenic valleys, waterfalls, streams, national parks, tea and spice plantations and winding walkways. The colonial charm of Munnar, with its British-era churches, colonial bungalows and cottages, is also a major attraction.",
+      "BestTime_toVisit": "September to March",
+      "ideal_duration": "3-4 days",
+      "best_places_to_visit": [
+        "Echo Point",
+        "Top Station",
+        "Atukkad Waterfalls",
+        "Eravikulam National Park",
+        "Tata Tea Museum",
+        "Pallivasal Falls",
+        "Chinnar Wildlife Sanctuary",
+        "Rose Garden",
+        "Kolukkumalai Tea Estate"
+      ],
+      "things_to_do": [
+        "Speed boating and horse riding at Mattupetty Dam",
+        "Enjoying boat rides at Kundala Dam and Lake",
+        "Visiting tea plantations",
+        "Enjoying fun rides at Wonder Valley Adventure and Amusement Park",
+        "Rock climbing, trekking and rappelling"
+      ],
+      "how_to_reach": {
+        "Nearest Airport": "Cochin International Airport",
+        "nearest_train_station": "Aluva Railway Station"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Coorg",
+      "image": "https://i.postimg.cc/KYXzT597/coorg.jpg",
+      "description": "Coorg or Kodagu is a hill station located in the state of Karnataka, India. It is surrounded by majestic mountain ranges and boasts a lush green landscape. Coorg is a popular weekend getaway for nature lovers and solace seekers, thanks to its lush green hills, sparkling streams, quaint villages, and vast expanses of coffee and spice plantations.",
+      "BestTime_toVisit": "October to June",
+      "ideal_duration": "3-4 days",
+      "best_places_to_visit": [
+        "Abbey Falls",
+        "Raja’s Seat",
+        "Shri Omkareshwara Temple",
+        "Government Museum Madikeri",
+        "Raja’s Tomb",
+        "Talakaveri",
+        "Madikeri Fort",
+        "Honnamana Kere Lake",
+        "Namdroling Monastery"
+      ],
+      "things_to_do": [
+        "Spending quiet time near waterfalls",
+        "Taking a walk-through coffee and spice plantations",
+        "Enjoying river rafting",
+        "Going on a wildlife safari at Nagarhole National Park",
+        "Trekking to Tadiandamol Peak"
+      ],
+      "how_to_reach": {
+        "nearest_airport": "Mangalore International Airport",
+        "nearest_train_station": "Mysuru Junction"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Manali",
+      "image": "https://i.postimg.cc/V6KmK9FV/manali.jpg",
+      "description": "Situated in the Kullu Valley of Himachal Pradesh, Manali draws tourists with its natural beauty and tranquillity. The hill station is frequented by travellers from across the country, especially during the summer season when cities reel under the scorching heat. Snow-capped mountains, dense forests, riverine valleys and sparkling streams add to the beauty of the hill station and make it one of the most popular holiday destinations in India. Another charming thing about Manali is that it showcases a beautiful blend of rich cultural heritage and modernisation. Besides spending time in serenity and soaking in the beauty of the surroundings, you can engage in thrilling adventure activities here for a memorable vacation.",
+      "BestTime_toVisit": "October to June",
+      "ideal_duration": "3-4 days",
+      "best_places_to_visit": [
+        "Manu Temple",
+        "Hidimba Devi Temple",
+        "Museum of Himachal Culture and Folk Art",
+        "Jogini Falls",
+        "Himalayan Nyinmapa Tibetan Buddhist Temple",
+        "Nehru Kund",
+        "Mall Road"
+      ],
+      "things_to_do": [
+        "Paragliding, parachuting and horse riding at Solang Valley",
+        "Mountain biking, skiing and sledge riding at Rohtang Pass",
+        "Trekking",
+        "River rafting",
+        "Ziplining",
+        "Zorbing"
+      ],
+      "how_to_reach": {
+        "nearest_airport": "Bhuntar Airport",
+        "nearest_train_station": "Joginder Nagar Railway Station"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Ooty",
+      "image": "https://i.postimg.cc/BbW9YhKN/ooty.jpg",
+      "description": "Ooty is one of the most frequented holiday destinations for tourists from Tamil Nadu, Kerala and Karnataka. Given the fact that the southern part of India gets too hot during the summer season, a trip to Ooty offers the much-needed respite from the heat. This picturesque and serene hill station is also a popular honeymoon destination among couples. Ooty offers stunning views of the Nilgiri Hills and lush green landscapes dotted with alpine woods, clear lakes, emerald green tea estates and colourful blossoms. The hill station also houses the popular Nilgiri Mountain Railway which was declared a UNESCO World Heritage Site in 2005.",
+      "BestTime_toVisit": "October to June",
+      "ideal_duration": "2-3 days",
+      "best_places_to_visit": [
+        "Ooty Botanical Gardens",
+        "Dolphin’s Nose",
+        "Rose Garden",
+        "Avalanche Lake",
+        "Doddabetta Peak",
+        "St Stephan’s Church",
+        "Thread Garden",
+        "Kalhatti Falls",
+        "Annamalai Temple",
+        "Kamraj Sagar Lake",
+        "Catherine Falls"
+      ],
+      "things_to_do": [
+        "Boating",
+        "Birdwatching",
+        "Picnic and nature photography at Ooty Lake and Emerald Lake",
+        "Toy train ride",
+        "Visiting tea gardens at Kotagiri",
+        "Trekking"
+      ],
+      "how_to_reach": {
+        "nearest_airport": "Coimbatore International Airport",
+        "nearest_train_station": "Udagamandalam Railway Station"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Amritsar",
+      "image": "https://i.postimg.cc/9F81cDxH/amritsar.jpg",
+      "description": "Steeped in history and spirituality, Amritsar is one of the most-visited cities in the state of Punjab. It is home to the famous Golden Temple or Sri Harmandir Sahib and is frequented by devout Sikhs and tourists from across the globe. The city also gives a nudge to your patriotic side with sites like Jallianwala Bagh and Wagah Border. The charm of Amritsar is such that tourists visit the place time and again to pay their respects at Golden Temple and watch the mesmerising Wagah-Attari Border ceremony held at the India-Pakistan border.",
+      "BestTime_toVisit": "November to March",
+      "ideal_duration": "3-4 days",
+      "best_places_to_visit": [
+        "Akal Takht",
+        "Durgiana Temple",
+        "Attari Wagah Border",
+        "Partition Museum",
+        "Gobindgarh Fort",
+        "Central Sikh Museum",
+        "War Memorial and Museum",
+        "Gurudwara Shaheed Ganj Sahib"
+      ],
+      "things_to_do": [
+        "Trying Punjabi cuisine and street food",
+        "doing ‘Langar Seva’ at Golden Temple",
+        "buying colourful souvenirs",
+        "having fun at Suncity Amusement and Waterpark",
+        "birdwatching at Harike Wetlands"
+      ],
+      "how_to_reach": {
+        "nearest_airport": "Sri Guru Ram Dass Jee International Airport",
+        "nearest_train_station": "Amritsar Junction"
+      }
+    }
+  ]
+}
